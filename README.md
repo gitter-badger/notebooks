@@ -1,5 +1,6 @@
 notebooks
 =========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ssanderson/notebooks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 IPython Notebooks by Scott Sanderson
 
 Running IPython Notebook
